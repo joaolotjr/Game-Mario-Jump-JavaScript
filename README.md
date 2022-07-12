@@ -1,1 +1,1 @@
-# Game-Mario-Jump-JavaScript
+# Game Mario Jump JavaScript
